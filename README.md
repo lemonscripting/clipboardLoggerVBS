@@ -1,4 +1,4 @@
-# clipboardListenerVBS🚀
+# clipboardLoggerVBS🚀
 
 ## Requirements
 To run this script, ensure you have the following:
